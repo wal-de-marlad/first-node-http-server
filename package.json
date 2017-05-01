@@ -1,0 +1,12 @@
+{
+   "name"        : "first-node-http-server",
+   "version"     : "0.0.1",
+   "description" : "My first node.js http server",
+   "author"      : "Wal De Mar-Lad",
+   "license"     : "MIT",
+   "main"        : "server.js",
+   "config"      : {
+      "host" : "127.0.0.1",
+      "port" : "80"
+   }
+}
