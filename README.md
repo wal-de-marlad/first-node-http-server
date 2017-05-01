@@ -3,5 +3,6 @@
 Feel free to criticize this code.
 
 # Usage
-
-Start it with "npm start" command, not with "node server.js".
+git clone https://github.com/wal-de-marlad/first-node-http-server.git
+cd first-node-http-server
+npm start
